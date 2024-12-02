@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Me With AI "
+title                    : "기록 대마왕"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JSKim"
-description              : "A place to organize your AI knowledge"
+description              : "일상을 내 방식으로 풀어보리라."
 url                      : "https://mewithai.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mewithai/mewithai.github.io"
+repository               : "RecordDaemon/mewithai.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AI Minded"
+  name             : "기록 대마왕"
   avatar           : "/assets/images/me_avatar.jpg"
   bio              : "M, INTP"
   location         : "Daegu"
