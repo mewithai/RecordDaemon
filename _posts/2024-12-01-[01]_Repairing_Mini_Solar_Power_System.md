@@ -1,9 +1,7 @@
 ---
-lang: en
-permalink: /Repairing_Mini_Solar_Power_System
+lang: kr
 title: "This is Title"
 excerpt: "This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. "
-author: "JS Kim"
 published: true
 toc: true
 toc_sticky: true
