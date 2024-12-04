@@ -21,7 +21,7 @@ title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JSKim"
 description              : "일상을 내 방식으로 풀어보리라."
-url                      : "https://mewithai.github.io/"
+url                      : "https://rd.fourd.kr/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RecordDaemon/mewithai.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
