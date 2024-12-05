@@ -293,4 +293,4 @@ defaults:
       related: true
 
 ## 날짜 형식 변경 : December 1, 2024 --> 2024-12-01
-date_format: "%Y-%m-%d"      
+#date_format: "%Y-%m-%d"      
