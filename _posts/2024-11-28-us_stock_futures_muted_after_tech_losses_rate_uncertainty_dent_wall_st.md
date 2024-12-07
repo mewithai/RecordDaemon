@@ -1,5 +1,20 @@
-- 제목: 미국 주식 시장 전망 및 기술주 동향
-- 전체 요약: 기술주 실적 부진과 금리 전망 불확실성 속에서 미국 주식 선물 지수가 안정세를 보이고 있다.
+---
+lang: kr
+title: "Front Matter에 들어 있는 제목"
+excerpt: "This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. "
+published: true
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+---
+
+## 미국 주식 시장 전망 및 기술주 동향
+
+- 출처: [Investing.com](http://investing.com)
+
+> This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt.. This is excerpt..
+
+- 기술주 실적 부진과 금리 전망 불확실성 속에서 미국 주식 선물 지수가 안정세를 보이고 있다.
   - 기술주 실적 부진으로 인해 시장에 부정적인 영향이 미쳤다.
   - 강한 경제 지표로 인해 금리 인하에 대한 불확실성이 커졌다.
   - 미국 연준의 선호 인플레이션 지표인 PCE 가격 지수가 예상대로 상승했다.
@@ -7,6 +22,7 @@
   - 월스트리트 지수는 여전히 기록적인 고점 근처에 머물고 있다.
 
 - 키워드: 설명
+- 
   - **기술주 (Tech Stocks)**: 기술 산업에 속하는 기업의 주식으로, 최근 실적 부진이 시장에 부정적인 영향을 미쳤다.
   - **금리 (Interest Rates)**: 중앙은행이 설정하는 대출 및 예금의 이자율로, 경제 지표에 따라 향후 인하 여부에 대한 불확실성이 커지고 있다.
   - **PCE 가격 지수 (PCE Price Index)**: 미국 연방준비제도(Fed)가 선호하는 인플레이션 지표로, 최근 상승세를 보이며 인플레이션 우려를 반영하고 있다.

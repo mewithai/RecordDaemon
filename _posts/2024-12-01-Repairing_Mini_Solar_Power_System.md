@@ -8,8 +8,6 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-# This is Header1
-
 Contents
 
 ## This is Header1
