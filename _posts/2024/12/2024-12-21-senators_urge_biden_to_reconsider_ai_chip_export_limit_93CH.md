@@ -1,7 +1,7 @@
 ---
 lang: kr
-title: "미국의 AI 칩 수출 제한과 투자자 관점"
-excerpt: 바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.
+title: "바이든 행정부의 AI 칩 수출 제한에 대한 상원 반발"
+excerpt: 바이든 행정부의 AI 칩 수출 제한 계획이 두 명의 상원 의원에 의해 도전받고 있다. 이 계획은 중국의 AI 칩 접근을 차단하기 위한 것으로, 상원 의원들은 이로 인해 미국 기술의 해외 판매가 저해될 수 있다고 경고했다.
 published: true
 toc: true
 toc_sticky: true
@@ -12,25 +12,42 @@ tags:
     - NVDA
 ---
 
+---
+
+  원문: [Senators urge Biden to reconsider AI chip export limit](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
+
+## 바이든 행정부의 AI 칩 수출 제한에 대한 상원 반발
+
+> 바이든 행정부의 AI 칩 수출 제한 계획이 두 명의 상원 의원에 의해 도전받고 있다. 이 계획은 중국의 AI 칩 접근을 차단하기 위한 것으로, 상원 의원들은 이로 인해 미국 기술의 해외 판매가 저해될 수 있다고 경고했다.
 
 
- 원문: [Senators urge Biden to reconsider AI chip export limit](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
+- 바이든 행정부는 중국의 칩 산업을 억제하기 위해 수출 통제를 자주 사용하고 있으며, AI 칩 및 고급 칩 제조 장비의 판매에 대한 제한을 포함하고 있다.
+- 상원 의원들은 바이든 대통령에게 보낸 서한에서 이 제한이 미국 기술의 해외 판매에 미치는 부정적 영향을 우려하고 있다.
+- 제한이 시행될 경우, 외국 바이어들이 중국 경쟁업체인 화웨이와 같은 대안으로 이동할 수 있으며, 이는 미국의 기술 리더십에 부정적인 영향을 미칠 수 있다.
+- 바이든 행정부는 Chips Act를 통해 미국 내 칩 제조 시설에 대한 수십억 달러의 자금을 지원하고 있으며, 이는 향후 기술 발전에 기여할 것으로 기대된다.
+- 상원 의원들은 이 제한이 미국 기업의 경쟁력을 약화시킬 수 있으며, 기술 혁신에 대한 미국의 우위를 위협할 수 있다고 해석하고 있다.
+- 미국의 AI 칩 수출 제한은 기술 리더십을 유지하기 위한 노력으로 보이지만, 상원 의원들의 우려처럼 해외 판매에 부정적인 영향을 미칠 수 있다.
 
-> U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties.(바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.)
+## Biden Administration's AI Chip Export Restrictions Face Senate Pushback
 
-- U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties(미국이 구글과 마이크로소프트 등 기업에 전 세계적으로 AI 칩 접근을 감시할 권한을 부여하여 중국을 겨냥하고 있습니다. 새로운 규정은 AI 칩 수출을 간소화하고 민감한 당사자에 의한 남용을 방지하기 위한 것입니다.)
-  - 
+> 바이든 행정부의 AI 칩 수출 제한 계획이 두 명의 상원 의원에 의해 도전받고 있다. 이 계획은 중국의 AI 칩 접근을 차단하기 위한 것으로, 상원 의원들은 이로 인해 미국 기술의 해외 판매가 저해될 수 있다고 경고했다.
 
-## 단어 공부
 
-- Export Controls: Regulations that restrict the export of certain technologies to specific countries, often for national security reasons.
-- AI Chips: Advanced semiconductor devices designed to perform artificial intelligence tasks, crucial for various tech applications.
-- Chips Act: Legislation aimed at boosting domestic semiconductor manufacturing and research in the U.S.
-- Market Competition: The rivalry among businesses to attract customers and gain market share, which can be affected by government regulations.
-- Technology Leadership: The position of a country or company as a leader in technological innovation and development.
+- 바이든 행정부는 중국의 칩 산업을 억제하기 위해 수출 통제를 자주 사용하고 있으며, AI 칩 및 고급 칩 제조 장비의 판매에 대한 제한을 포함하고 있다.
+- 상원 의원들은 바이든 대통령에게 보낸 서한에서 이 제한이 미국 기술의 해외 판매에 미치는 부정적 영향을 우려하고 있다.
+- 제한이 시행될 경우, 외국 바이어들이 중국 경쟁업체인 화웨이와 같은 대안으로 이동할 수 있으며, 이는 미국의 기술 리더십에 부정적인 영향을 미칠 수 있다.
+- 바이든 행정부는 Chips Act를 통해 미국 내 칩 제조 시설에 대한 수십억 달러의 자금을 지원하고 있으며, 이는 향후 기술 발전에 기여할 것으로 기대된다.
+- 상원 의원들은 이 제한이 미국 기업의 경쟁력을 약화시킬 수 있으며, 기술 혁신에 대한 미국의 우위를 위협할 수 있다고 해석하고 있다.
+- 미국의 AI 칩 수출 제한은 기술 리더십을 유지하기 위한 노력으로 보이지만, 상원 의원들의 우려처럼 해외 판매에 부정적인 영향을 미칠 수 있다.
+
+## Keywords
+
+- AI 칩: 인공지능을 처리하는 데 사용되는 반도체 칩.
+- 수출 통제: 특정 제품의 해외 판매를 제한하는 정부 정책.
+- Chips Act: 미국 내 반도체 제조 및 연구 개발을 지원하기 위한 법안.
+- 화웨이: 중국의 주요 통신 및 기술 기업으로, 자체 AI 칩을 개발하고 있음.
 
 ## 참고사항
-
 
 - 원문의 길이 = 1,899 Characters
 
