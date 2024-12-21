@@ -1,6 +1,6 @@
 ---
 lang: kr
-title: "[241221] 미국의 AI 칩 수출 제한과 투자자 관점"
+title: "미국의 AI 칩 수출 제한과 투자자 관점"
 excerpt: 바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.
 published: true
 toc: true
@@ -12,17 +12,12 @@ tags:
     - NVDA
 ---
 
-## Senators urge Biden to reconsider AI chip export limit
+ 원문: [Senators urge Biden to reconsider AI chip export limit](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
 
 > 바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.
 
-- 바이든 행정부의 AI 칩 수출 제한 계획
-- 미국 기술 기업의 해외 판매에 대한 우려
-- 중국 경쟁업체인 화웨이의 AI 칩 개발
-- 의회와 기업의 의견 수렴 부족
-- 칩 산업의 중요성과 미국의 기술 리더십
-
-출처: [Investing.com](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
+- 미국이 구글과 마이크로소프트 등 기업에 전 세계적으로 AI 칩 접근을 감시할 권한을 부여하여 중국을 겨냥하고 있습니다. 새로운 규정은 AI 칩 수출을 간소화하고 민감한 당사자에 의한 남용을 방지하기 위한 것입니다.
+  - U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties
 
 ## 단어 공부
 
