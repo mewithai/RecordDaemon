@@ -12,12 +12,14 @@ tags:
     - NVDA
 ---
 
+
+
  원문: [Senators urge Biden to reconsider AI chip export limit](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
 
-> 바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.
+> U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties.(바이든 행정부의 AI 칩 수출 제한 계획이 미국 내 기업과 기술 경쟁력에 미치는 영향에 대한 우려가 제기되고 있다.)
 
-- 미국이 구글과 마이크로소프트 등 기업에 전 세계적으로 AI 칩 접근을 감시할 권한을 부여하여 중국을 겨냥하고 있습니다. 새로운 규정은 AI 칩 수출을 간소화하고 민감한 당사자에 의한 남용을 방지하기 위한 것입니다.
-  - U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties
+- U.S. plans to authorize companies like Google and Microsoft to monitor access to AI chips globally, targeting China. The new regulations aim to streamline AI chip exports and prevent misuse by sensitive parties(미국이 구글과 마이크로소프트 등 기업에 전 세계적으로 AI 칩 접근을 감시할 권한을 부여하여 중국을 겨냥하고 있습니다. 새로운 규정은 AI 칩 수출을 간소화하고 민감한 당사자에 의한 남용을 방지하기 위한 것입니다.)
+  - 
 
 ## 단어 공부
 
