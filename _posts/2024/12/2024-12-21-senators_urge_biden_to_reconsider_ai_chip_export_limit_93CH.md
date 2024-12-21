@@ -13,6 +13,7 @@ tags:
 ---
 
 
+---
 
  원문: [Senators urge Biden to reconsider AI chip export limit](https://www.investing.com/news/stock-market-news/senators-urge-biden-to-reconsider-ai-chip-export-limit-93CH-3785131)
 
