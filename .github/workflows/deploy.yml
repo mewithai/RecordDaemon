@@ -37,7 +37,7 @@ jobs:
           # Astro 프로젝트가 repo 루트에 있으면 기본값(.) 그대로 사용
           path: .
           node-version: 20
-          package-manager: bpm
+          package-manager: npm
 
   deploy:
     needs: build
