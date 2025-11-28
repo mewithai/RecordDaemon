@@ -1,31 +1,51 @@
 name: Deploy Astro to GitHub Pages
 
 on:
-push:
-branches:
-- main # 배포할 브랜치
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-steps:
-- uses: actions/checkout@v3
+      # Node 20 이상 권장 (Astro v5 + Astroplate 요구사항)
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
 
-- name: Use Node.js
-  uses: actions/setup-node@v3
-  with:
-    node-version: '20'
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
 
-- name: Install dependencies
-  run: npm install
+      - name: Build and upload artifact
+        uses: withastro/action@v4
+        with:
+          # Astro 프로젝트가 repo 루트에 있으면 기본값(.) 그대로 사용
+          path: .
+          node-version: 20
+          package-manager: yarn
 
-- name: Build site
-  run: npm run build
-
-- name: Deploy to GitHub Pages
-  uses: peaceiris/actions-gh-pages@v6
-  with:
-    github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./dist
-    cname: rd.fourd.kr  # 커스텀 도메인 적용
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
