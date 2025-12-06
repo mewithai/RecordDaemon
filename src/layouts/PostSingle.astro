@@ -65,7 +65,24 @@ const { title, description, author, categories, image, date, tags } = post.data;
           <Content />
         </div>
         <div class="row items-start justify-between">
-          <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
+          <div class="mb-10 flex items-center lg:col-6 lg:mb-0">
+            <h5 class="mr-3">Categories :</h5>
+            <ul>
+              {
+                categories.map((category: string) => (
+                  <li class="inline-block">
+                    <a
+                      class="m-1 block rounded bg-light px-3 py-1 hover:bg-primary hover:text-white dark:bg-darkmode-light dark:hover:bg-darkmode-primary dark:hover:text-text-dark"
+                      href={`/categories/${slugify(category)}`}
+                    >
+                      {humanize(category)}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+          <div class="mb-10 flex items-center lg:col-6 lg:mb-0">
             <h5 class="mr-3">Tags :</h5>
             <ul>
               {
@@ -82,33 +99,11 @@ const { title, description, author, categories, image, date, tags } = post.data;
               }
             </ul>
           </div>
-          <div class="flex items-center lg:col-4">
-            <h5 class="mr-3">Share :</h5>
-            <Share
-              className="social-icons"
-              title={title}
-              description={description}
-              slug={post.id}
-            />
-          </div>
         </div>
         <Disqus className="mt-20" client:load />
       </article>
     </div>
 
-    <!-- Related posts -->
-    <div class="section pb-0">
-      <h2 class="h3 mb-12 text-center">Related Posts</h2>
-      <div class="row justify-center">
-        {
-          similarPosts.map((post) => (
-            <div class="lg:col-4 md:col-6 mb-14">
-              <BlogCard data={post} />
-            </div>
-          ))
-        }
-      </div>
-    </div>
   </div>
 </section>
 
