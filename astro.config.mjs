@@ -11,7 +11,7 @@ import config from "./src/config/config.json";
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "https://minyminme.github.io/RecordDaemon/",
+  site: config.site.base_url ? config.site.base_url : "https://mewithai.github.io/RecordDaemon/",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: { service: sharp() },
