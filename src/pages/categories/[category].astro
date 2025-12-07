@@ -21,6 +21,9 @@ export async function getStaticPaths() {
 
 const { category } = Astro.params;
 
+// decode URL-encoded category name
+const decodedCategory = decodeURIComponent(category!);
+
 // get posts by category
 const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER);
@@ -28,8 +31,8 @@ const filterByCategories = taxonomyFilter(posts, "categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
 
-<Base title={category}>
-  <PageHeader title={category} />
+<Base title={decodedCategory}>
+  <PageHeader title={decodedCategory} />
   <div class="section-sm pb-0">
     <div class="container">
       <div class="row">
