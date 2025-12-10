@@ -1,16 +1,16 @@
 ---
-title: "Alexa Noti로 집으로 방송하기"
-meta_title: "Alexa Noti로 집안 방송 자동화하는 방법"
-description: "HAOS와 Alexa Add-on을 활용해 집안 안내 방송을 자동화하는 방법, 한국어 음성 출력 및 MP3 변환, SSML 활용법, Home Assistant API 연동까지 실전 예시로 설명합니다."
-date: 2025-12-07T00:00:00Z
-image: "/images/20251207.png"
-categories: ["집자동화"]
+title: "S24 Ultra S-Pen 구매 후기"
+meta_title: ""
+description: ""
+date: 2025-12-09T00:00:00Z
+image: "/images/20251209.png"
+categories: ["물품구매"]
 author: "JSKim"
-tags: ["집자동화", "알렉사", "Alexa", "Noti", "방송"]
-draft: false
+tags: ["휴대폰", "물품구매"]
+draft: true
 ---
 
-> 알렉사를 통해서 원격 또는 자동으로 집안 안내 방송을 해보자. 
+> Aliexpress에서 Galaxy S 펜을 구매해봤다. 
 
  빨래를 널고 나면 베란다의 습도가 올라간다. 창문을 열어 환기를 시켜야 하는데 깜빡 잊을때가 있다.
 
